@@ -1,0 +1,199 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#310000",
+            "lang-select-color": "#222829",
+            "bg-light": "#310000",
+            "welcome-bonus-bg": "#310000",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#190000",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#A4151C",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#f1a604",
+            "yellow": "#A4151C",
+            "yellow-button": "#f1a604",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#A4151C",
+            "casino-cards": "#310000",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#A4151C",
+            "providers-back": "#310000",
+            "faq-label": "#310000",
+            "bg-footer": "#310000",
+            "copyright": "#e7e7d5",
+            "starColor": "#A4151C",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5640"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5641",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "3 Buzzing Wilds Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5642",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "3 Buzzing Wilds"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "3 Buzzing Wilds",
+                    "title": "3 Buzzing Wilds — 10\/8\/6 Free Spins, 100x Bonus Buy and 5,000x Max Win",
+                    "description": "Explore 3 Buzzing Wilds with 3 Wild features, selectable 10, 8 or 6 free spins, RTP up to 96.03%, Scatter rewards up to 50x and a maximum win of up to 5,000x the stake.",
+                    "canonical": "3buzzing-wilds.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5643",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "3buzzing-wilds.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5644"
+                },
+                "hero": {
+                    "title": "3 Buzzing Wilds — 3 Bonus Modes, RTP up to 96.03% and Wins up to 5,000x",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5645",
+                    "imageSizeModifier": 10,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5646",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Three wild features boost every spin",
+                        "Bonus choice adds more player control",
+                        "Sticky wilds improve bonus round potential",
+                        "High volatility suits bigger win chasers",
+                        "Bright theme keeps gameplay visually engaging",
+                        "Simple rules feel friendly for beginners"
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "Know more",
+                    "appTitle": "3 Buzzing Wilds App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5647",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "3 Buzzing Wilds App",
+                    "mobileGooglePlayImageTitle": "3 Buzzing Wilds App",
+                    "mobileIosImageTitle": "3 Buzzing Wilds App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About 3 Buzzing Wilds",
+                        "description1": "3 Buzzing Wilds is a colorful Pragmatic Play slot built around a bee-and-garden theme with a strong focus on Wild mechanics.",
+                        "items": [],
+                        "description2": "It runs on a 5x4 layout with 20 fixed paylines, and its core identity comes from three different special Wild features. These mechanics can appear randomly in the base game, while the free spins round lets the player choose one of three feature styles. ",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5648",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "The bonus feels more intense because the created Wilds become sticky and can build stronger setups over several spins. This is a high-volatility slot, so it is better suited to players who accept swingy sessions in exchange for stronger upside. The advertised top setup lists RTP up to 96.03%, with a maximum win of 5,000x the stake."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "3 Buzzing Wilds — slot review and features",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\n3 Buzzing Wilds Slot Features and Core Mechanics\n<\/h3>\n<p>\n3 Buzzing Wilds looks cheerful and accessible at first glance, yet its mathematical profile is much more ambitious than the visuals suggest. The slot stands out because three different Wild mechanics can reshape the reels and improve the quality of winning setups. The game becomes especially engaging in free spins, where the chosen feature applies with sticky behavior and can build stronger positions over time. This creates a balanced mix of simple base gameplay and a more exciting bonus phase.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nKey Slot Specifications\n<\/h4>\n<ul>\n            <li>• Provider: Pragmatic Play<\/li>\n            <li>• Layout: 5 reels, 4 rows<\/li>\n            <li>• Paylines: 20 fixed lines<\/li>\n            <li>• Volatility: High<\/li>\n            <li>• RTP: up to 96.03%<\/li>\n            <li>• Maximum win: up to 5,000x stake<\/li>\n            <li>• Bet range: 0.20 to 100<\/li>\n            <li>• Bonus round: Yes<\/li>\n            <li>• Bonus Buy: available where permitted<\/li>\n            <li>• Main features: Random Wilds, Expanding Wilds, Surrounding Wilds<\/li>\n            <li>• Free Spins: 3 selectable bonus modes<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWhere to Play 3 Buzzing Wilds\n<\/h3>\n<p>\n3 Buzzing Wilds is commonly available on licensed gaming platforms that work with major slot providers. In most cases, the game can be launched directly in a desktop browser or on mobile devices without downloading extra software. Many platforms also let players try the demo before switching to real-money mode. It is best to choose operators that clearly show game rules, bet limits, RTP information, and bonus feature availability. It is also important to remember that functions such as Bonus Buy may vary depending on jurisdiction and local restrictions.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n3 Buzzing Wilds Demo Mode Overview\n<\/h3>\n<p>\nThe demo mode in 3 Buzzing Wilds is designed to help players explore the slot mechanics without risking their bankroll. It allows you to see how Random Wilds, Expanding Wilds, and Surrounding Wilds behave during real gameplay and compare the feel of the bonus options. Because the slot has high volatility, demo play is especially useful for understanding session pace and feature impact. It is also a convenient way to test the interface, spin speed, and mobile compatibility before real-money play.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n3 Buzzing Wilds Paytable and Main Symbol Values\n<\/h3>\n<p>\nThe 3 Buzzing Wilds paytable is easy to follow, with the Bee and Wild symbol sitting at the top of the value ladder. Other insect symbols offer mid-range rewards, while the card royals cover the lower-paying part of the model. The Beehive Scatter is especially important because it delivers a payout and also triggers the free spins feature. Below is a clear paytable summary with the most relevant payout references.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #A4151C;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Symbol<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Combination<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Payout<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bee \/ Wild<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5 on a payline<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">up to 50x<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Ladybird<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5 on a payline<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">up to 20x<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Caterpillar<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5 on a payline<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">up to 15x<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Butterfly<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5 on a payline<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">up to 10x<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Beehive Scatter<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">3 \/ 4 \/ 5 anywhere<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">2x \/ 10x \/ 50x<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHow Players Usually Win in 3 Buzzing Wilds\n<\/h3>\n<p>\nThere is no guaranteed way to win in 3 Buzzing Wilds, and that is the most important starting point. In practical play, the slot tends to perform through feature-driven moments rather than through a steady stream of small payouts. The strongest sessions usually come when a Wild modifier lands in the right position or when sticky Wilds build value during free spins. Many players get better results by keeping the stake under control and allowing the high-volatility model enough room to develop. In real terms, the biggest momentum often appears through expanding reels, strong surrounding Wild placements, or a bonus choice that fits the session style.\n<\/p>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "3 Buzzing Wilds — bonuses, features, and how to play",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\n3 Buzzing Wilds Bonuses and Special Offers\n<\/h3>\n<p>\n3 Buzzing Wilds stands out because its bonus value is built through several different layers rather than a single standard feature. The slot includes special Wild mechanics in the base game, a selectable free spins round, sticky behavior during the bonus, and a Bonus Buy option where allowed. On gaming platforms, the slot can also appear inside broader offers such as free spins packages, deposit promotions, cashback campaigns, or seasonal events. From a gameplay perspective, the in-game bonus modes matter most because they directly change reel behavior and can preserve strong Wild setups across multiple spins. External promotions add extra value, but their structure depends on the operator and local rules. This makes 3 Buzzing Wilds appealing to players who want both strong internal features and the possibility of additional promotional support around the game.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRandom Wilds\n<\/h4>\n<ul>\n            <li>• Random Wilds can be added to different reel positions during play. In the bonus version, this option usually grants 10 free spins and the created Wilds stay sticky for the full round, making it useful for players who prefer more frequent reel improvement.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nExpanding Wilds\n<\/h4>\n<ul>\n            <li>• When a Wild lands, it can expand to cover the full reel. In free spins, this option is usually tied to 8 spins with sticky expanded reels, making it one of the strongest formats for building high-quality line wins.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSurrounding Wilds\n<\/h4>\n<ul>\n            <li>• A landed Wild can transform nearby symbols into additional Wilds. In the bonus round, this option usually gives 6 free spins and aims for dense Wild clusters with more aggressive payout potential.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nFree Spins Trigger\n<\/h4>\n<ul>\n            <li>• The feature starts with 3, 4, or 5 Scatter symbols and also awards a trigger payout of about 2x, 10x, or 50x stake. This is the main gateway to the most powerful part of the slot.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonus Buy\n<\/h4>\n<ul>\n            <li>• Where permitted, players can enter the bonus directly for 100x stake. It offers instant access to the feature but requires more careful bankroll management and may be restricted in some jurisdictions.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTypical External Promotions\n<\/h4>\n<ul>\n            <li>• Depending on the platform, players may find examples such as a 100% first deposit bonus, 50 to 100 free spins, or 5% to 20% cashback. These are not part of the slot itself, but they can increase the overall value of playing the game.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n3 Buzzing Wilds Free Spins and Multiplier Table\n<\/h3>\n<p>\n3 Buzzing Wilds does not use a classic rising global bonus multiplier, but it makes up for that through selectable free spins modes and sticky Wild behavior. Because of this, the real value of the bonus comes from the chosen feature style as much as from the number of free spins. The Scatter trigger also awards an instant payout, which is important when comparing different bonus entry moments. The table below gives a practical overview of the most relevant free spins and multiplier references.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #A4151C;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Trigger \/ Mode<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Free Spins \/ Multiplier<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Effect<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>3 Scatters<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">2x + choice of 10 \/ 8 \/ 6 FS<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Bonus entry with feature selection<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>4 Scatters<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10x + choice of 10 \/ 8 \/ 6 FS<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Stronger bonus trigger payout<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>5 Scatters<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">50x + choice of 10 \/ 8 \/ 6 FS<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Highest trigger payout<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Random Wilds<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10 FS<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Sticky random Wild symbols<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Expanding Wilds<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">8 FS<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Sticky expanding Wild reels<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Surrounding Wilds<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">6 FS<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Sticky Wild zone around a landed Wild<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHow to Play 3 Buzzing Wilds\n<\/h3>\n<p>\n3 Buzzing Wilds is easy to start because the base structure is straightforward and user-friendly. You choose the stake, launch the spin, and watch for matching symbols that connect from left to right. The real depth of the game appears through the special Wild mechanics and the free spins feature where you select your preferred bonus mode.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSet Your Stake\n<\/h4>\n<ul>\n            <li>• Pick a comfortable bet size within the available range. Since this is a high-volatility slot, a calmer stake often gives the session more room to develop.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLaunch the Spins\n<\/h4>\n<ul>\n            <li>• Press the Spin button manually or use autoplay where available. Wins are formed by matching symbols across adjacent reels from left to right.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWatch the Wild Features\n<\/h4>\n<ul>\n            <li>• Random Wilds, Expanding Wilds, and Surrounding Wilds can appear during the base game and are the main source of upgraded reel setups.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTrigger the Bonus\n<\/h4>\n<ul>\n            <li>• Land 3 or more Scatter symbols to enter the bonus feature. The Scatter trigger also pays an instant reward depending on how many symbols appear.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nChoose a Free Spins Mode\n<\/h4>\n<ul>\n            <li>• In the bonus round, select one of the three options: 10, 8, or 6 free spins with different Wild behavior. This choice shapes the style and tempo of the feature.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nManage the Session Pace\n<\/h4>\n<ul>\n            <li>• Do not judge the slot only by a few spins. The game is designed to feel swingy, so it makes more sense to evaluate it over a longer stretch of play.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n3 Buzzing Wilds Playing Tips\n<\/h3>\n<p>\n3 Buzzing Wilds is better approached as a slot with sharp bursts of potential rather than a constant stream of steady payouts. That means the best advice is not about secret winning formulas, but about discipline, pace, and understanding how the bonus structure behaves. The more clearly a player reads the mechanics, the more comfortable and controlled the session usually feels.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStart with Demo Play\n<\/h4>\n<ul>\n            <li>• Try the demo first to learn how often features appear and which Wild style feels most natural for you. This is especially useful in a high-volatility game with selectable bonus modes.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nKeep the Stake Moderate\n<\/h4>\n<ul>\n            <li>• Avoid pushing the bet too high too early. In slots like this, preserving enough spins for the variance to unfold is often more valuable than forcing fast results.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nUse the Bonus Choice Wisely\n<\/h4>\n<ul>\n            <li>• Random Wilds gives more spins, Expanding Wilds can strengthen line wins, and Surrounding Wilds can create denser Wild zones. Choose the style that fits your goals.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDo Not Overreact to Short Sessions\n<\/h4>\n<ul>\n            <li>• Several weak spins in a row are normal here. It makes more sense to judge the slot over a broader run rather than through isolated moments.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCheck the Rules of the Active Version\n<\/h4>\n<ul>\n            <li>• RTP settings and Bonus Buy availability may vary by operator and jurisdiction, so reviewing the game info panel before playing is a smart habit.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSet Session Limits in Advance\n<\/h4>\n<ul>\n            <li>• Decide your session budget before you begin. This helps maintain control and avoids emotional decisions after a difficult stretch.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n3 Buzzing Wilds Mistakes That Drain the Bankroll\n<\/h3>\n<p>\nIn 3 Buzzing Wilds, bankrolls are usually lost not because the slot is broken, but because players misread its pace and volatility. The visuals feel light and playful, yet the math behind the game requires a calmer approach and enough room for variance. The biggest mistakes almost always come from bet sizing, unrealistic expectations, and attempts to force results too quickly.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStarting Too High\n<\/h4>\n<ul>\n            <li>• A large early stake cuts the spin reserve too quickly and leaves no time for the bonus potential to develop. In a high-volatility model, this is one of the fastest ways to burn through balance.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nExpecting Constant Wins\n<\/h4>\n<ul>\n            <li>• The game looks cheerful and active, but that does not mean it should pay often. Expecting regular hits can push players into emotional decisions.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nIgnoring the Bonus Choice\n<\/h4>\n<ul>\n            <li>• Some players choose the feature mode automatically without understanding the difference between 10, 8, and 6 free spins. That removes a valuable layer of control.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nChasing Losses\n<\/h4>\n<ul>\n            <li>• Raising the bet aggressively after a weak run often accelerates losses instead of fixing them. This is especially dangerous in a swingy slot.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSkipping the Demo\n<\/h4>\n<ul>\n            <li>• Without testing the game first, players often spend real money just learning the tempo, interface, and feature structure instead of playing with a clear plan.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nNot Checking the Active Settings\n<\/h4>\n<ul>\n            <li>• RTP values and Bonus Buy access may differ between versions. If these details are ignored, expectations and actual gameplay can diverge quickly.<\/li>\n<\/ul><br>\n\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Is there a bonus selection feature?",
+                            "answer": "Yes, the Free Spins round allows the player to choose one of three bonus modes."
+                        },
+                        {
+                            "title": "Can players buy the bonus round?",
+                            "answer": "Yes, Bonus Buy is available in some jurisdictions, but it is not universal."
+                        },
+                        {
+                            "title": "Can RTP vary between versions of the slot?",
+                            "answer": "Yes, different operators may use different RTP configurations, so the active version should always be checked in the game info."
+                        },
+                        {
+                            "title": "Can free spins be retriggered?",
+                            "answer": "Reviews commonly state that retriggering is not available, which makes the initial bonus choice more important."
+                        },
+                        {
+                            "title": "What makes the slot memorable?",
+                            "answer": "Its strongest identity comes from the three Wild mechanics, the selectable bonus round, and the contrast between a light visual style and a more intense bonus structure."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://3buzzing-wilds.com/
+Sitemap: https://3buzzing-wilds.com/sitemap.xml
